@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T12:36:32.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="HRS8ubZ5VRC8Rxzu_tZD" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T14:07:29.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="mZyk--5VCHTMjqQ9-KYC" version="24.3.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1232" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -17,10 +17,16 @@
           <mxGeometry x="500" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0s52j0iCRRlU9yB-W3LT-5" value="Timer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0s52j0iCRRlU9yB-W3LT-6" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0s52j0iCRRlU9yB-W3LT-7" value="&lt;h3&gt;&lt;strong&gt;NSDR&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0s52j0iCRRlU9yB-W3LT-8" value="Prepare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
